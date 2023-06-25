@@ -1,4 +1,4 @@
-# [SWP] SportComplex service
+# [SWP] SportComplex service with sport Achievements
 
 ![Tests](https://github.com/WinnerOK/SWP_sport_back/workflows/Tests/badge.svg)
 ![Production deploy](https://github.com/WinnerOK/SWP_sport_back/workflows/Production%20deploy/badge.svg?branch=master)
